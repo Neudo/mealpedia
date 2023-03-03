@@ -40,7 +40,6 @@ export default {
             this.plats.push(data.meals[i])
           }
         }
-
       } else{
         this.errors.push("Merci de sélectionner une zone")
       }

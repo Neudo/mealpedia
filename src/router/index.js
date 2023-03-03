@@ -31,8 +31,8 @@ const router = createRouter({
     },
     {
       path: '/zone',
-      name: 'aera',
-      component: () => import('../views/AeraView.vue')
+      name: 'area',
+      component: () => import('../views/AreaView.vue')
     },
 
   ]
